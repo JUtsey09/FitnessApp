@@ -53,7 +53,7 @@ namespace TestApp
                     Console.WriteLine("That is not valid input.");
                     continue;
                 }
-                    Console.WriteLine("You've exersised " + runningTotal + " minutes!");
+                    Console.WriteLine("You've exercised a total of " + runningTotal + " minutes!");
                     Console.ReadLine();                                      
             }
         }
